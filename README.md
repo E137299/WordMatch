@@ -72,7 +72,7 @@ The following examples show declarations of a WordMatch object. The tables show 
 ```java
 WordMatch game = new WordMatch("mississippi");
 ```
-![WordMatch1](WordMatch1.PNG)
+![WordMatch1](https://github.com/E137299/WordMatch/blob/main/wordMatch1.PNG)
 ```java
 WordMatch game = new WordMatch("aaaabb");
 ```
