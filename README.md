@@ -76,7 +76,7 @@ WordMatch game = new WordMatch("mississippi");
 ```java
 WordMatch game = new WordMatch("aaaabb");
 ```
-![WordMatch1](WordMatch2.PNG)
+![WordMatch1](https://github.com/E137299/WordMatch/blob/main/WordMatch2.PNG)
 
 Complete the scoreGuess method.
 ```java
@@ -97,7 +97,7 @@ The following example shows a declaration of a WordMatch object and the outcomes
 ```java
 WordMatch game = new WordMatch("concatenation");
 ```
-![WordMatch3](WordMatch3.PNG)
+![WordMatch3](https://github.com/E137299/WordMatch/blob/main/WordMatch3.PNG)
 Complete method findBetterGuess.
 
 Assume that scoreGuess works as specified, regardless of what you wrote in part (a). You must use scoreGuess appropriately to receive full credit.
